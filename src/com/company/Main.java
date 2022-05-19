@@ -14,5 +14,10 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000000km";
         Xfact.heat="309324934898kj";
+
+        Planet1Features Gulk=new Planet1Features();
+        Gulk.color="blue";
+        Gulk.size="654654654km";
+        Gulk.name="preacheX";
     }
 }
